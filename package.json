@@ -1,0 +1,1 @@
+{\n  \"name\": \"c9-browser\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A simple C9 browser project.\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"author\": \"Lowkey5150618\",\n  \"license\": \"ISC\"\n}
